@@ -25,6 +25,11 @@
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <img src="https://i.imgur.com/V1M6rge.jpg" alt="dog in grass">
+<img src="https://i.imgur.com/Q1Z6xjU.jpg" alt="dog on beach">
+<img src="https://i.imgur.com/3X2QJPu.jpg" alt="dog in car">
+<img src="https://i.imgur.com/h5vfX3K.jpg" alt="dog in lake">
+<img src="https://i.imgur.com/f2J8uV7.jpg" alt="dog playing fetch">
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
